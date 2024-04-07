@@ -20,6 +20,22 @@ Duration: 6 Hours
 ```
 
 ```
+Paris Itinerary for 2 Seniors - 2 Days
+
+Day 1:
+- Morning: Breakfast at a local café.
+- Late Morning: Visit the Louvre Museum, focusing on major highlights.
+- Afternoon: Lunch in the Tuileries Garden followed by a stroll along the Seine River.
+- Evening: Dinner in a traditional Parisian bistro in the Latin Quarter.
+
+Day 2:
+- Morning: Visit Notre-Dame Cathedral and possibly Sainte-Chapelle.
+- Afternoon: Explore Montmartre, including the Sacré-Cœur Basilica, with lunch at a local café.
+- Late Afternoon: Leisure time around Montmartre and Place du Tertre.
+- Evening: Seine River cruise and dinner with a view of the Eiffel Tower.
+```
+
+```
 Toronto, Ontario Visit Schedule
 Group: 3 Adults
 Duration: 5 days
