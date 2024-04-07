@@ -51,7 +51,7 @@ Day 5: Iconic Sights and Farewell
 ```
 
 ```
-Houston, Texax Visit Schedule
+Houston, Texas Visit Schedule
 Group: 1 Adult
 Duration: 24 hours
 
